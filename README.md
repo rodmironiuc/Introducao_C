@@ -1,6 +1,6 @@
-## Introducao_C
+# Introducao_C
 
-# Integrantes
+## Integrantes
 Enrico Najjar Galdeano - 32260407
 
 Rodrigo Mironiuc Fernandes - 32274823
@@ -9,7 +9,7 @@ Mauricio Gabriel Gutierrez Garcia - 32266601
 
 
 
-# Instruções
+## Instruções
 instalar git e gcc
 
 Clonar o repositório : `git clone https://github.com/rodmironiuc/IntroducaoC.git`
